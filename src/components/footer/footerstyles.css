@@ -1,0 +1,15 @@
+.footer {
+    padding: 20px 0;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+
+    background-color: #3d0a0a;
+    font-family: "Hedvrgb(46, 7, 7)ers Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+
+    z-index: 1;
+}

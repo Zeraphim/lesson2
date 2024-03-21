@@ -1,0 +1,122 @@
+[
+  {
+    "employee_name": "Reanu Keeves",
+    "employee_code": "001",
+    "department": "IT",
+    "email_address": "rk21@google.com"
+  },
+  {
+    "employee_name": "Caria Mlara",
+    "employee_code": "002",
+    "department": "HR",
+    "email_address": "Caria@google.com"
+  },
+  {
+    "employee_name": "Pedro Reyes",
+    "employee_code": "003",
+    "department": "Finance",
+    "email_address": "pedro.reyes@google.com"
+  },
+  {
+    "employee_name": "Ana Mercado",
+    "employee_code": "004",
+    "department": "Sales",
+    "email_address": "ana.mercado@google.com"
+  },
+  {
+    "employee_name": "Jose Rizal",
+    "employee_code": "005",
+    "department": "Marketing",
+    "email_address": "jose.rizal@google.com"
+  },
+  {
+    "employee_name": "Cristina Reyes",
+    "employee_code": "006",
+    "department": "IT",
+    "email_address": "cristina.reyes@google.com"
+  },
+  {
+    "employee_name": "Ramon Magsaysay",
+    "employee_code": "007",
+    "department": "HR",
+    "email_address": "ramon.magsaysay@google.com"
+  },
+  {
+    "employee_name": "Carlos Garcia",
+    "employee_code": "008",
+    "department": "Finance",
+    "email_address": "carlos.garcia@google.com"
+  },
+  {
+    "employee_name": "Luisa Macapagal",
+    "employee_code": "009",
+    "department": "Marketing",
+    "email_address": "luisa.macapagal@google.com"
+  },
+  {
+    "employee_name": "Wruce Bayne",
+    "employee_code": "010",
+    "department": "Sales",
+    "email_address": "wb@google.com"
+  },
+  {
+    "employee_name": "Corazon Aquino",
+    "employee_code": "011",
+    "department": "IT",
+    "email_address": "corazon.aquino@google.com"
+  },
+  {
+    "employee_name": "Fidel Ramos",
+    "employee_code": "012",
+    "department": "HR",
+    "email_address": "fidel.ramos@google.com"
+  },
+  {
+    "employee_name": "Josephine Mercado",
+    "employee_code": "013",
+    "department": "Finance",
+    "email_address": "josephine@google.com"
+  },
+  {
+    "employee_name": "Garcia Francia",
+    "employee_code": "014",
+    "department": "Marketing",
+    "email_address": "garcia21@google.com"
+  },
+  {
+    "employee_name": "Aquino Roxas",
+    "employee_code": "015",
+    "department": "Sales",
+    "email_address": "aquino.roxas@google.com"
+  },
+  {
+    "employee_name": "Pikachu",
+    "employee_code": "016",
+    "department": "Electricity",
+    "email_address": "pika.pika@google.com"
+  },
+  {
+    "employee_name": "Leni Robredo",
+    "employee_code": "017",
+    "department": "HR",
+    "email_address": "leni.robredo@google.com"
+  },
+  {
+    "employee_name": "Gaul Soodman",
+    "employee_code": "018",
+    "department": "Law",
+    "email_address": "better.call@google.com"
+  },
+  {
+    "employee_name": "Socrates",
+    "employee_code": "019",
+    "department": "Philosophy",
+    "email_address": "know.nothing@google.com"
+  },
+  {
+    "employee_name": "Anubis",
+    "employee_code": "020",
+    "department": "Handiwork",
+    "email_address": "definitely.not.lucario@google.com"
+  }
+]
