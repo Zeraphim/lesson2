@@ -13,7 +13,8 @@ function States() {
     <div className="content" style={{ backgroundColor: color }}>
       
 
-      <h2>Change the bg color using React States</h2>
+      {/* <h2>Change the bg color using React States</h2> */}
+      <h2>CHANGED TEXT</h2>
       <h3>Current Color: {color}</h3>
 
       <div className="button-container">
