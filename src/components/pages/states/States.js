@@ -14,7 +14,7 @@ function States() {
       
 
       {/* <h2>Change the bg color using React States</h2> */}
-      <h2>CHANGED TEXT</h2>
+      <h2>THIS IS A NEW TEXT 🤣</h2>
       <h3>Current Color: {color}</h3>
 
       <div className="button-container">
